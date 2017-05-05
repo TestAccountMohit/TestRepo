@@ -4,6 +4,7 @@ function [] = plotStuff(Allsigs)
 %% ok me try what you say
 % fix scaling
 [scaling]= scaleStuff(Allsigs);
+disp('Hypped')
 
 % plot
 fig1=figure;
