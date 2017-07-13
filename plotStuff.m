@@ -1,6 +1,6 @@
 function [] = plotStuff(Allsigs)
 
-% added one more line of comment more
+% added one more line of comment morejjj
 %% ok me try what you say
 % fix scaling
 [scaling]= scaleStuff(Allsigs);
